@@ -3,6 +3,10 @@
 
 CSC 600 musical application. Get ready to shred.
 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbScWLN6YXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ## Client
 
 The client contains the code which you will modify as part of the course. It constitutes the frontend (UI) portion of this web application.
