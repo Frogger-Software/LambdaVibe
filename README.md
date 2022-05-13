@@ -3,9 +3,9 @@
 
 CSC 600 musical application. Get ready to shred.
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jbScWLN6YXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+Preview our project below on YouTube!
+
+[![demo_vid](https://i.ytimg.com/vi/jbScWLN6YXE/hqdefault.jpg)](https://www.youtube.com/embed/jbScWLN6YXE)
 
 ## Client
 
